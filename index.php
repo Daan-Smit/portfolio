@@ -1,1 +1,1 @@
-<h1>Heuu chefke, leuk dat jij op m'n pagina bent.</h1>
+<h1 style="font-size: 140px;">Heuu chefke, leuk dat jij op m'n pagina bent.</h1>
