@@ -1,7 +1,7 @@
 <?php
 
 
-include '../../main/head.php';
+include '../main/head.php';
 
 ?>
 test
