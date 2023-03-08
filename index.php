@@ -5,7 +5,7 @@
     <div class="containter">
         <div class="row">
             <div class="col-sm">
-                One of three columns
+                <h1>hello there</h1>
             </div>
             <div class="col-sm">
                 One of three columns
