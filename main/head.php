@@ -16,6 +16,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicons/favicon-16x16.png">
     <link rel="manifest" href="/images/favicons/site.webmanifest">
 
+    <!-- Title of site -->
     <title>WebDaan</title>
 
     <!-- Bootstrap link -->
